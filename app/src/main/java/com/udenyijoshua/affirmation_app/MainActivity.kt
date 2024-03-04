@@ -28,7 +28,10 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
+@Composable
+fun HelloWorld(){
 
+}
 
 @Preview(showBackground = true)
 @Composable
